@@ -1,6 +1,5 @@
 # Pusulam
 Manage multiple adresses and routing using arcGIS and Google Maps.
-Project for managing multiple addresses and routing
 
 # Instructions
 
